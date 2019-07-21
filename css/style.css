@@ -666,7 +666,7 @@ textarea.form-control {
 .bg-img1 {
     background: url(../images/g6.jpg) no-repeat;
     background-size: cover;
-    min-height: 400px;
+    min-height: 250px;
 }
 
 section.why-sec {
