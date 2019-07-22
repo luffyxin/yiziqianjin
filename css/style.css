@@ -1488,7 +1488,7 @@ section {
     position: relative;
     width: 380px;
     float: left;
-    transition: 0.5s;
+    transition: 0.3s;
 }
 
 .container .column .box {
